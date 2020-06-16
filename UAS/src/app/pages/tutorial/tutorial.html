@@ -1,0 +1,56 @@
+<ion-header>
+  <ion-toolbar class="ion-no-border" lines="none" >
+    <ion-buttons slot="end">
+      <ion-button color='primary' (click)="startApp()" [hidden]="!showSkip">Skip</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content fullscreen="true" color="tertiary" >
+  <ion-slides #slides (ionSlideWillChange)="onSlideChangeStart($event)" pager="false">
+    <ion-slide>
+      <img src="assets/img/loh.png" class="slide-image" />
+      <h2 class="slide-title">
+        Sky
+        <b>Massage</b>
+      </h2>
+      <p>
+        The
+        <b>Body Massage</b> Practical use of message when you are relaxing your mind and body
+        use.
+      </p>
+    </ion-slide>
+
+    <ion-slide>
+      <ion-card class="welcome-card" color="tertiary">
+      <img src="assets/img/tubuh.jpg" class="slide-image" />
+      <ion-card-content>
+        <ion-card-title>Foot Massage</ion-card-title>
+      <p>
+        <b>Relaxing</b>  is an important part of life</p>
+      </ion-card-content>
+    </ion-card>
+
+    </ion-slide>
+
+    <ion-slide>
+      <ion-card class="welcome-card" color="tertiary">
+        <img src="/assets/img/cowocewe.jpg" alt=""/>
+        <ion-card-content>
+          <ion-card-title>Full Massage</ion-card-title>
+          <p><b>Enjoy</b> the beauty of life</p>
+        </ion-card-content>
+    
+      </ion-card>
+    </ion-slide>
+
+    <ion-slide>
+      <img src="assets/img/kaki.jpg" class="slide-image" />
+      <h2 class="slide-title">Let's Try!!</h2>
+      <ion-button fill="clear" (click)="startApp()">
+        Start
+        <ion-icon slot="end" name="arrow-forward"></ion-icon>
+      </ion-button>
+    </ion-slide>
+  </ion-slides>
+</ion-content>

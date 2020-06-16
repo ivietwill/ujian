@@ -1,0 +1,35 @@
+<!-- src/app/isidata/isidata.page.html -->
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="cart"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Pembelian</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding" color="secondary">
+<ion-item>
+  <ion-label position="stacked">Nama</ion-label>
+  <ion-input [(ngModel)]="dataPembeli.nama"></ion-input>
+</ion-item>
+
+<ion-item>
+  <ion-label position="stacked">No.Hp</ion-label>
+  <ion-input [(ngModel)]="dataPembeli.nohp"></ion-input>
+</ion-item>
+
+<ion-item>
+  <ion-label position="stacked">Alamat</ion-label>
+  <ion-input [(ngModel)]="dataPembeli.alamat"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="stacked">Kode pos</ion-label>
+    <ion-input [(ngModel)]="dataPembeli.pos"></ion-input>
+  </ion-item>
+
+  
+
+  <ion-button (click)="pembayaran()" expand="block" color="primary">Pembayaran</ion-button>
+</ion-content>
