@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T09:17:20.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 Edg/90.0.818.42" etag="6eZ0aEDK8aAFU7j4Hbpd" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T09:23:47.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 Edg/90.0.818.42" etag="P2kbPEF0Nu-6X841eXuL" version="14.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="539" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -57,12 +57,12 @@
             <mxPoint x="430" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lm1UV_hXRvtuFAmprLmY-8" value="Media Converter&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="lm1UV_hXRvtuFAmprLmY-8" value="Converter&lt;br&gt;Working?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="450" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lm1UV_hXRvtuFAmprLmY-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="CJdiObcdhWTYxoOaKEA6-0">
-          <mxGeometry x="0.3084" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-1" y="-76" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6" as="offset" />
             <mxPoint x="280" y="490" as="sourcePoint" />
             <mxPoint x="440" y="470" as="targetPoint" />
           </mxGeometry>
@@ -90,6 +90,16 @@
             <mxPoint x="410" y="490" as="sourcePoint" />
             <mxPoint x="540" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJdiObcdhWTYxoOaKEA6-5" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lm1UV_hXRvtuFAmprLmY-8" target="CJdiObcdhWTYxoOaKEA6-6">
+          <mxGeometry x="-1" y="158" relative="1" as="geometry">
+            <mxPoint x="-8" y="-50" as="offset" />
+            <mxPoint x="140" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJdiObcdhWTYxoOaKEA6-6" value="Fiber Optic&lt;br&gt;Problem?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="580" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
