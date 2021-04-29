@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T02:04:02.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="ABUSsZxSidUBkodPmrd0" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T02:36:15.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="rEuc5Pt6n7aEZ_L5kLM1" version="14.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3218" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3609" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -109,6 +109,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="a17RyQ8lWPliEgYclrD9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZHcyF3b73lT71VGiQTMf-6" target="a17RyQ8lWPliEgYclrD9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZHcyF3b73lT71VGiQTMf-6" value="Memasukkan Kabel POE" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="374" y="360" width="100" height="80" as="geometry" />
         </mxCell>
@@ -133,8 +136,14 @@
         <mxCell id="ZHcyF3b73lT71VGiQTMf-16" value="Apakah ada&amp;nbsp;&lt;br&gt;Yang Putus?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="540" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="a17RyQ8lWPliEgYclrD9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZHcyF3b73lT71VGiQTMf-18" target="a17RyQ8lWPliEgYclrD9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZHcyF3b73lT71VGiQTMf-18" value="Mengganti ujung kaberl RJ45" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="374" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a17RyQ8lWPliEgYclrD9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZHcyF3b73lT71VGiQTMf-20" target="a17RyQ8lWPliEgYclrD9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHcyF3b73lT71VGiQTMf-20" value="CCTV rusak,&lt;br&gt;Harus Diganti" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="534" y="360" width="120" height="40" as="geometry" />
@@ -145,7 +154,7 @@
         <mxCell id="ZHcyF3b73lT71VGiQTMf-22" value="Mengganti Adapter" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="670" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a17RyQ8lWPliEgYclrD9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZHcyF3b73lT71VGiQTMf-24">
+        <mxCell id="a17RyQ8lWPliEgYclrD9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZHcyF3b73lT71VGiQTMf-24" target="a17RyQ8lWPliEgYclrD9-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1390" as="targetPoint" />
           </mxGeometry>
@@ -171,7 +180,7 @@
         <mxCell id="u1fJ31NM5lBXzWZiLZTg-2" value="Pengecekan dengan Laser" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-290" y="840" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a17RyQ8lWPliEgYclrD9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-4">
+        <mxCell id="a17RyQ8lWPliEgYclrD9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-4" target="a17RyQ8lWPliEgYclrD9-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1390" as="targetPoint" />
           </mxGeometry>
@@ -201,7 +210,7 @@
         <mxCell id="u1fJ31NM5lBXzWZiLZTg-9" value="Cek Fiber Optic CCTV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-400" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a17RyQ8lWPliEgYclrD9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-14">
+        <mxCell id="a17RyQ8lWPliEgYclrD9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-14" target="a17RyQ8lWPliEgYclrD9-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1380" as="targetPoint" />
           </mxGeometry>
@@ -231,7 +240,7 @@
         <mxCell id="u1fJ31NM5lBXzWZiLZTg-24" value="Cek Indikator Lampu Pada Converter Switch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-620" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a17RyQ8lWPliEgYclrD9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-25">
+        <mxCell id="a17RyQ8lWPliEgYclrD9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u1fJ31NM5lBXzWZiLZTg-25" target="a17RyQ8lWPliEgYclrD9-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1390" as="targetPoint" />
           </mxGeometry>
@@ -330,7 +339,7 @@
           <mxGeometry x="-990" y="1130" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a17RyQ8lWPliEgYclrD9-1" value="CCTV Menyala" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="534" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
